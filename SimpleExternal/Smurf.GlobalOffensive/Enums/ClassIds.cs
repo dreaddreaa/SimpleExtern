@@ -79,7 +79,7 @@
         ParticleDecoy = 41,
         ParticleFlash = 64, //9
         ParticleIncendiaryGrenade = 85, //93
-        DualBerettas = 203, //was 202
+        DualBerettas = 207, //was 202
         Bizon = 203,
         G3Sg1 = 210,
         M249 = 215,
