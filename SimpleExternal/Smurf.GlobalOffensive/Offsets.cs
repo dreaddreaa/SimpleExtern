@@ -6,7 +6,7 @@
         public static class Misc
         {
             public static int EntityList = 0x04A58F14;
-            public static int LocalPlayer = 0x00002FB0; //0x00A3A43C
+            public static int LocalPlayer = 0x00A3B43C; //0x00A3A43C
             public static int Jump = 0x04EEE3C4;
             public static int GlowIndex = 0x0000A310;  //0x0000A310
             public static int GlowObject = 0x04F6EC24;
